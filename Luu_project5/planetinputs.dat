@@ -1,0 +1,15 @@
+1.0  											 								# primary mass (M)
+0.003															 				# m1
+0.0025											 								# m2
+1.0    											 								# x1
+0.0																				# y1
+-1.0					     													# x2
+0.0											 									# y2
+0.0												 								# vx1
+1.1												 								# vy1
+0.0												 								# vx2
+0.8																				# vy2
+0.001 						 					 								# dt
+50000   										 								# Nsteps 
+8																				#number of dependent variables 
+ 

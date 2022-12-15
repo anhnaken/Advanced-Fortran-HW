@@ -1,0 +1,12 @@
+hassel equation: 
+N_n+1 = R0Nn/(1+aNn)^b
+R0 > 0,
+a>0,
+b>/0
+
+
+
+
+G^T*G*C(vector) = G^(T)*y(BE) = X(vector)
+A_alpha,beta = sigma(i) G_i,alpha*G_i,beta
+x_alpha = sigma(i) G_i,alpha*y_i
